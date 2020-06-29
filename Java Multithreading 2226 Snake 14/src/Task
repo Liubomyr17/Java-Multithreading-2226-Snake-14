@@ -1,0 +1,11 @@
+
+Task 14
+Now let's work on the print () method.
+It is necessary:
+a) display a rectangle of dots of width x height size.
+b) mark the body of the snake with the symbol "x" - English
+c) draw the head of the snake with the X-English symbol.
+Hint:
+a) it is convenient to first create a matrix of type int [] [] with a size (height x width)
+b) then go through all the objects and draw them into a matrix.
+For example, the body of a snake - 1, the head of a snake - 2, the mouse - 3.
